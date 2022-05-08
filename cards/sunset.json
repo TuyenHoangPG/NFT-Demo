@@ -1,0 +1,16 @@
+{
+  "name": "Sunset",
+  "description": "Genesis card",
+  "image_url": "https://raw.githubusercontent.com/TuyenHoangPG/NFT-Demo/main/cards/sunset.jpeg",
+  "attributes": [
+      {
+        "trait_type": "class", 
+        "value": "genesis"
+      }, 
+      {
+          "display_type": "date", 
+          "trait_type": "birthday", 
+          "value": 1624955102
+      }        
+    ]
+}
