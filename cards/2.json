@@ -1,0 +1,40 @@
+{
+  "name": "Sunset Other",
+  "description": "Sunset card",
+  "image_url": "https://raw.githubusercontent.com/TuyenHoangPG/NFT-Demo/main/cards/2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "sunset"
+    },
+    {
+      "trait_type": "Taked By",
+      "value": "Huong"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1624955102
+    },
+    {
+      "display_type": "date",
+      "trait_type": "taked day",
+      "value": 1652030674409
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Aqua Power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}
